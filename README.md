@@ -50,4 +50,4 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 
 ## Course
 
-CSE437 — Data Mining / Machine Learning, BRACU
+CSE437 — DATA SCIENCE: CODING WITH REAL WORLD DATA, BRACU
